@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Shreyanshrana06/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Shreyanshrana06/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
