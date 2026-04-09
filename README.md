@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Shreyanshrana06/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyanshrana06/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
