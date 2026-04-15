@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shreyanshrana06/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Shreyanshrana06/DSA/tree/master/0075-sort-colors) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shreyanshrana06/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shreyanshrana06/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shreyanshrana06/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyanshrana06/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Linked List
