@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shreyanshrana06/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Shreyanshrana06/DSA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Shreyanshrana06/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shreyanshrana06/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shreyanshrana06/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyanshrana06/DSA/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Shreyanshrana06/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
