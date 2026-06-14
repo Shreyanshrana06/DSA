@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shreyanshrana06/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shreyanshrana06/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Shreyanshrana06/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shreyanshrana06/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyanshrana06/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shreyanshrana06/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shreyanshrana06/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
