@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shreyanshrana06/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shreyanshrana06/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Shreyanshrana06/DSA/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shreyanshrana06/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyanshrana06/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shreyanshrana06/DSA/tree/master/0070-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shreyanshrana06/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shreyanshrana06/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shreyanshrana06/DSA/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
