@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreyanshrana06/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shreyanshrana06/DSA/tree/master/0189-rotate-array) |
+| [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Shreyanshrana06/DSA/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shreyanshrana06/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shreyanshrana06/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyanshrana06/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
+| [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyanshrana06/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Linked List
 |  |
