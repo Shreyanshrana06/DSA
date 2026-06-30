@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyanshrana06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Shreyanshrana06/DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyanshrana06/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shreyanshrana06/DSA/tree/master/2540-minimum-common-value) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shreyanshrana06/DSA/tree/master/0205-isomorphic-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyanshrana06/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyanshrana06/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shreyanshrana06/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shreyanshrana06/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyanshrana06/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Shreyanshrana06/DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyanshrana06/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shreyanshrana06/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Trie
 |  |
