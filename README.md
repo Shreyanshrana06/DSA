@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Shreyanshrana06/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyanshrana06/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Shreyanshrana06/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyanshrana06/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Shreyanshrana06/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyanshrana06/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyanshrana06/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/Shreyanshrana06/DSA/tree/master/1095-find-in-mountain-array) |
 | [2540-minimum-common-value](https://github.com/Shreyanshrana06/DSA/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreyanshrana06/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
+| [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
 ## String
