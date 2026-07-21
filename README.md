@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreyanshrana06/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shreyanshrana06/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shreyanshrana06/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
@@ -183,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyanshrana06/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
