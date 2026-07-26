@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shreyanshrana06/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyanshrana06/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyanshrana06/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreyanshrana06/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreyanshrana06/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
