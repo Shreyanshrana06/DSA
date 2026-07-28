@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Shreyanshrana06/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyanshrana06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreyanshrana06/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyanshrana06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Shreyanshrana06/DSA/tree/master/0904-fruit-into-baskets) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shreyanshrana06/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Shreyanshrana06/DSA/tree/master/1095-find-in-mountain-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
