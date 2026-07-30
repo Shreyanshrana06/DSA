@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyanshrana06/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyanshrana06/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shreyanshrana06/DSA/tree/master/2549-count-distinct-numbers-on-board) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshrana06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyanshrana06/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shreyanshrana06/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shreyanshrana06/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshrana06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shreyanshrana06/DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyanshrana06/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyanshrana06/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshrana06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
