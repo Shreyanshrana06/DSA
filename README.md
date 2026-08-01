@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreyanshrana06/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Shreyanshrana06/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Shreyanshrana06/DSA/tree/master/0075-sort-colors) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyanshrana06/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Shreyanshrana06/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shreyanshrana06/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Shreyanshrana06/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shreyanshrana06/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyanshrana06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shreyanshrana06/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0234-palindrome-linked-list) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shreyanshrana06/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shreyanshrana06/DSA/tree/master/0070-climbing-stairs) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shreyanshrana06/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyanshrana06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shreyanshrana06/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
