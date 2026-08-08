@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shreyanshrana06/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyanshrana06/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shreyanshrana06/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyanshrana06/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shreyanshrana06/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyanshrana06/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Shreyanshrana06/DSA/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shreyanshrana06/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Shreyanshrana06/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyanshrana06/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
 | ------- |
