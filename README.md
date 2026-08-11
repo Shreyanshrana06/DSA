@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyanshrana06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shreyanshrana06/DSA/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shreyanshrana06/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyanshrana06/DSA/tree/master/0162-find-peak-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shreyanshrana06/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shreyanshrana06/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shreyanshrana06/DSA/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
