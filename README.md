@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Shreyanshrana06/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Shreyanshrana06/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0784-letter-case-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shreyanshrana06/DSA/tree/master/0205-isomorphic-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0784-letter-case-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Shreyanshrana06/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyanshrana06/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -369,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Shreyanshrana06/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
