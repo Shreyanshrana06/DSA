@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Shreyanshrana06/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyanshrana06/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyanshrana06/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyanshrana06/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shreyanshrana06/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Shreyanshrana06/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0784-letter-case-permutation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyanshrana06/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
