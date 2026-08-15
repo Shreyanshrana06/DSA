@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyanshrana06/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Shreyanshrana06/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shreyanshrana06/DSA/tree/master/0205-isomorphic-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shreyanshrana06/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shreyanshrana06/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Shreyanshrana06/DSA/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/Shreyanshrana06/DSA/tree/master/0131-palindrome-partitioning) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shreyanshrana06/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Shreyanshrana06/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shreyanshrana06/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shreyanshrana06/DSA/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
 |  |
