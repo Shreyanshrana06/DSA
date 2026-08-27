@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyanshrana06/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shreyanshrana06/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shreyanshrana06/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyanshrana06/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shreyanshrana06/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shreyanshrana06/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shreyanshrana06/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyanshrana06/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shreyanshrana06/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shreyanshrana06/DSA/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shreyanshrana06/DSA/tree/master/2549-count-distinct-numbers-on-board) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shreyanshrana06/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyanshrana06/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shreyanshrana06/DSA/tree/master/3731-find-missing-elements) |
