@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shreyanshrana06/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shreyanshrana06/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shreyanshrana06/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Shreyanshrana06/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Shreyanshrana06/DSA/tree/master/0779-k-th-symbol-in-grammar) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shreyanshrana06/DSA/tree/master/0258-add-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shreyanshrana06/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shreyanshrana06/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shreyanshrana06/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Shreyanshrana06/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shreyanshrana06/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
