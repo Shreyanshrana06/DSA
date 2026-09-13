@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shreyanshrana06/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shreyanshrana06/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shreyanshrana06/DSA/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Shreyanshrana06/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0784-letter-case-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyanshrana06/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Shreyanshrana06/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyanshrana06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Shreyanshrana06/DSA/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Shreyanshrana06/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shreyanshrana06/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shreyanshrana06/DSA/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/Shreyanshrana06/DSA/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/Shreyanshrana06/DSA/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Shreyanshrana06/DSA/tree/master/0796-rotate-string) |
