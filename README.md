@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Shreyanshrana06/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0503-next-greater-element-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shreyanshrana06/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shreyanshrana06/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreyanshrana06/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyanshrana06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyanshrana06/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyanshrana06/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyanshrana06/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreyanshrana06/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Shreyanshrana06/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyanshrana06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
