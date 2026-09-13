@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyanshrana06/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Shreyanshrana06/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shreyanshrana06/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyanshrana06/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shreyanshrana06/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shreyanshrana06/DSA/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Shreyanshrana06/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shreyanshrana06/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shreyanshrana06/DSA/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shreyanshrana06/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Shreyanshrana06/DSA/tree/master/0383-ransom-note) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyanshrana06/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
