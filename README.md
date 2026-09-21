@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
 | [2937-make-three-strings-equal](https://github.com/Shreyanshrana06/DSA/tree/master/2937-make-three-strings-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshrana06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shreyanshrana06/DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shreyanshrana06/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shreyanshrana06/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyanshrana06/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyanshrana06/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shreyanshrana06/DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
