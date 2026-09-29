@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
-SELECT id, movie,description,rating
-FROM Cinema
-WHERE description NOT LIKE 'boring'
-AND id % 2 =1
+SELECT id,movie,description,rating
+FROM Cinema a
+WHERE id%2 =1 AND
+description != 'boring' 
 ORDER BY rating DESC;
