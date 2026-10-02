@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shreyanshrana06/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Shreyanshrana06/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyanshrana06/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/Shreyanshrana06/DSA/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Shreyanshrana06/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shreyanshrana06/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shreyanshrana06/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Shreyanshrana06/DSA/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyanshrana06/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Shreyanshrana06/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyanshrana06/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyanshrana06/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyanshrana06/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
