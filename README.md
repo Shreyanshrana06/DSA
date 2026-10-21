@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shreyanshrana06/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shreyanshrana06/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Shreyanshrana06/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreyanshrana06/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shreyanshrana06/DSA/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shreyanshrana06/DSA/tree/master/2549-count-distinct-numbers-on-board) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyanshrana06/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Shreyanshrana06/DSA/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/Shreyanshrana06/DSA/tree/master/1095-find-in-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreyanshrana06/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Shreyanshrana06/DSA/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyanshrana06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shreyanshrana06/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreyanshrana06/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Shreyanshrana06/DSA/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyanshrana06/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shreyanshrana06/DSA/tree/master/3731-find-missing-elements) |
